@@ -1,0 +1,56 @@
+.couleurnavbar a, .couleurnavbar p{
+color: rgb(250, 254, 254) !important;
+}
+.couleurnavbar{
+    background-color: black !important;
+   
+}
+.couleurnav a{
+    color: black !important;
+}
+.couleur{
+    color: antiquewhite !important;
+}
+/* the band **************************** */
+.band{
+    
+     width: 70%;
+    /* margin: auto; */
+    margin: 80px auto;
+}
+.band h1,.band p, .band span{
+    text-align: center;
+}
+.name img{
+   display: block;
+   margin: auto;
+   
+}
+.band p span{
+    font-style: italic;
+    color: gainsboro;
+}
+/* sold out  */
+.tourdate{
+    color: white;
+    background-color: black;
+    
+    margin: 80px;
+    text-align: center;
+}
+.tourdate .soldout{
+    width: 70%;
+    margin: 20px 
+    auto;
+    background-color: white;
+    color: black;
+    text-align: start;
+}
+.tourdate  .card{
+    border: solid red;
+    margin: auto;
+}
+.tourdate .ligne{
+    width: 70%;
+    margin: auto;
+}
